@@ -1,1 +1,3 @@
-# ADS_Phase1
+# Srinivasan.C
+# ADS
+# Electricity Price Prediction
